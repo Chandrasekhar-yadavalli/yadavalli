@@ -33,4 +33,4 @@ b> HOME : </b> This section gives you the main motto of my website <br>
 
 ![contact](https://user-images.githubusercontent.com/105058237/185729914-4f77fd8e-3509-47c3-8a69-279835de0913.jpg) <br>
 
-The link to my future ready talent project is https://github.com/Chandrasekhar-yadavalli/yadavalli
+The link to my future ready talent project is https://mango-island-010a22310.1.azurestaticapps.net
